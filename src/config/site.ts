@@ -6,7 +6,7 @@ export const siteConfig = {
   navItems: [],
   navMenuItems: [],
   links: {
-    github: "https://chat.whatsapp.com/ETd1zXj4fvmAtUc8veO4zY",
+    whatsapp: "https://chat.whatsapp.com/ETd1zXj4fvmAtUc8veO4zY",
     docs: "https://wa.me/6285380779466",
   },
 };
