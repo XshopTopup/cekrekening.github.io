@@ -6,7 +6,7 @@ export const siteConfig = {
   navItems: [],
   navMenuItems: [],
   links: {
-    github: "https://github.com/cekrekening/cekrekening.github.io",
-    docs: "https://documenter.getpostman.com/view/31839079/2sAYQgi8yL",
+    github: "https://chat.whatsapp.com/ETd1zXj4fvmAtUc8veO4zY",
+    docs: "https://wa.me/6285380779466",
   },
 };
